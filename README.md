@@ -84,7 +84,7 @@
 1. **克隆仓库**
 
 ```
-git clone https://github.com/jiangnanboy/awesome-llm-apps-chinese.git&#x20;
+git clone https://github.com/jiangnanboy/awesome-llm-apps-chinese.git
 ```
 
 2. **导航到所需的项目目录**
